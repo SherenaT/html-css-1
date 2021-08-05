@@ -1,0 +1,46 @@
+body {
+  margin: 0px;
+}
+header {
+  background-color: rgb(68, 66, 66);
+  padding-bottom: 150px;
+}
+#left-side {
+  display: inline-block;
+  background-color: lightgrey;
+  height: 500px;
+  width: 100px;
+  padding: 40px;
+}
+main {
+  margin-bottom: 0px;
+}
+
+#right-side {
+  float: right;
+  background-color: lightgrey;
+  height: 500px;
+  width: 100px;
+  padding: 40px;
+}
+#footer-left-side {
+  display: inline-block;
+  background-color: lightgrey;
+  height: 10px;
+  width: 100px;
+  padding: 40px;
+}
+
+#footer-right-side {
+  float: right;
+  background-color: lightgrey;
+  height: 10px;
+  width: 100px;
+  padding: 40px;
+}
+
+footer {
+  background-color: black;
+  height: 90px;
+  margin-top: 0px;
+}

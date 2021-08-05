@@ -1,0 +1,40 @@
+header {
+  background-color: lightgrey;
+  height: 100px;
+  display: block;
+}
+
+#blue-square {
+  display: inline-block;
+  background-color: rgb(94, 145, 255);
+  height: 75px;
+  width: 5px;
+  padding-right: 75px;
+  margin-top: 15px;
+  margin-left: 15px;
+}
+p {
+  font-family: "Roboto", sans-serif;
+  text-align: justified;
+  margin: 20px;
+}
+
+#blue-line {
+  background-color: rgb(94, 145, 255);
+  height: 75px;
+}
+
+#green-line {
+  background-color: rgb(129, 233, 160);
+  height: 75px;
+}
+
+#kermit-green-line {
+  background-color: rgb(169, 218, 150);
+  height: 75px;
+}
+
+#yellow-line {
+  background-color: rgb(253, 241, 128);
+  height: 75px;
+}
